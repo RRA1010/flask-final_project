@@ -1,5 +1,3 @@
-"""Application factory for the running shoe API."""
-
 import os
 
 from flask import Flask
